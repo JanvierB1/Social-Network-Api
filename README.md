@@ -25,6 +25,7 @@ After running npm i. From there it can be access from Insomnia at http://localho
 ___
 
 ## Video 
+Here is a quick video on how it works!
 
 [Untitled_ Feb 6, 2023 10_11 PM.webm](https://user-images.githubusercontent.com/112591613/217146807-b8b049eb-2df6-4baa-88d4-c41241bb9e28.webm)
 
